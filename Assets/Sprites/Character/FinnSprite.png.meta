@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 466fe1cbd1e3dda478f02be1770a8fe8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1734298994132575547
+    second: FinnSprite_0
+  - first:
+      213: 534103480558367943
+    second: FinnSprite_1
+  - first:
+      213: 4791322243934442081
+    second: FinnSprite_2
+  - first:
+      213: -5917062122192708893
+    second: FinnSprite_3
+  - first:
+      213: -6251104414078383469
+    second: FinnSprite_4
+  - first:
+      213: 724075359462870046
+    second: FinnSprite_5
+  - first:
+      213: -4552544995289275632
+    second: FinnSprite_6
+  - first:
+      213: 8097478649174806226
+    second: FinnSprite_7
+  - first:
+      213: 2133774607616596006
+    second: FinnSprite_8
+  - first:
+      213: 1374902956545355056
+    second: FinnSprite_9
+  - first:
+      213: 5129986769101347299
+    second: FinnSprite_10
+  - first:
+      213: -4297940849446047935
+    second: FinnSprite_11
+  - first:
+      213: -8141434122734646331
+    second: FinnSprite_12
+  - first:
+      213: 1204210455163068522
+    second: FinnSprite_13
+  - first:
+      213: -5917656646185412387
+    second: FinnSprite_14
+  - first:
+      213: 937906620074655101
+    second: FinnSprite_15
+  - first:
+      213: 254875081501157263
+    second: FinnSprite_16
+  - first:
+      213: -2985760414292740195
+    second: FinnSprite_17
+  - first:
+      213: 9118139505556205406
+    second: FinnSprite_18
+  - first:
+      213: 1719766046186690200
+    second: FinnSprite_19
+  - first:
+      213: -4670821527491860930
+    second: FinnSprite_20
+  - first:
+      213: 8482636589037880538
+    second: FinnSprite_21
+  - first:
+      213: -2502752336538848153
+    second: FinnSprite_22
+  - first:
+      213: 3520439725064392175
+    second: FinnSprite_23
+  - first:
+      213: -27727559027392305
+    second: FinnSprite_24
+  - first:
+      213: 8629116929241908266
+    second: FinnSprite_25
+  - first:
+      213: 5150754172416867010
+    second: FinnSprite_26
+  - first:
+      213: 364163565158551442
+    second: FinnSprite_27
+  - first:
+      213: -8144951618997409560
+    second: FinnSprite_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinnSprite_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dd5e2c3da1cc548b1f711968b6dc60
+      internalID: 776174670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e6bf70858913408502e94c2e41765
+      internalID: -1039386945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9e9acf92ae51a468b3ada6058b45e7
+      internalID: 52720373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0514699a4559534b83c07fb35c6cb5e
+      internalID: 402394198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c05195cec4ec459021eadb855429c
+      internalID: -351649079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e26ee2efc721a44ea3242c0a6fea98a
+      internalID: 900684717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336da1abc0b0bf409f7adad03a2a4d7
+      internalID: -356225320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8352c756eda5fdc4ab3c39ce53683671
+      internalID: 1907906006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc2cd19432e0a14db2003415567f852
+      internalID: 1055389218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 6
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c9030e3d3001942952db96611cd699
+      internalID: -1866131678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 6
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1989b8f0adf91498510b06c020b8d1
+      internalID: -343936086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 6
+        width: 17
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a45c31a2af86479bf1e0fe9e67708
+      internalID: 1825006231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 7
+        width: 19
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbb22b4b77f2384c90a90e75b5652e4
+      internalID: 1201673464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 6
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ace3307f93b6d4c829ee7b32be232c
+      internalID: 1598717538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f01d69776040e4e98ac0ab1d6d68fb
+      internalID: -188126025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc50852480df648852d1b17c91a21f
+      internalID: 2116553946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 6
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac67446036fb1446b1d81b6c2a82afc
+      internalID: -1431003777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 23
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20103dd2a6a7894cbf9eefb66e71e75
+      internalID: 1045708321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220490a05afb0d549bfcf0945056d276
+      internalID: 282155058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 6
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32679e5957d6c9b46a805092b0c8afc3
+      internalID: 24846224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_20
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 6
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1bfdb356a1bce44b6d6d098f95e7e4
+      internalID: 1734700359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_21
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 6
+        width: 14
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c9f93c7798a4e4cbfb80d02b42ea1e
+      internalID: 1910879222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_22
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 6
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac2570b1b006404ca754b77e15bda11
+      internalID: -1658142608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_23
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 6
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c962c642264d8542be06acc0f759b7f
+      internalID: 1626975114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_24
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 6
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04a420d490d69e4a80fa056d3b5858e
+      internalID: -1166562124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_25
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 6
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d8562f547fe744f9c28e206667d602
+      internalID: -873792664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 6
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a8712a47e63cc49b2f3afdc6efa2c6
+      internalID: 646941836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_27
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 6
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb631d4839e57e0488ca6d46b7d364df
+      internalID: -1519437369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinnSprite_28
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 6
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.555789, y: 0.337081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91517b2e986592347bece906e234bd28
+      internalID: -1992826024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e2ae168bf867a144089d76812b2d2f3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FinnSprite_0: 776174670
+      FinnSprite_1: -1039386945
+      FinnSprite_10: -343936086
+      FinnSprite_11: 1825006231
+      FinnSprite_12: 1201673464
+      FinnSprite_13: 1598717538
+      FinnSprite_14: -188126025
+      FinnSprite_15: 2116553946
+      FinnSprite_16: -1431003777
+      FinnSprite_17: 1045708321
+      FinnSprite_18: 282155058
+      FinnSprite_19: 24846224
+      FinnSprite_2: 52720373
+      FinnSprite_20: 1734700359
+      FinnSprite_21: 1910879222
+      FinnSprite_22: -1658142608
+      FinnSprite_23: 1626975114
+      FinnSprite_24: -1166562124
+      FinnSprite_25: -873792664
+      FinnSprite_26: 646941836
+      FinnSprite_27: -1519437369
+      FinnSprite_28: -1992826024
+      FinnSprite_3: 402394198
+      FinnSprite_4: -351649079
+      FinnSprite_5: 900684717
+      FinnSprite_6: -356225320
+      FinnSprite_7: 1907906006
+      FinnSprite_8: 1055389218
+      FinnSprite_9: -1866131678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
