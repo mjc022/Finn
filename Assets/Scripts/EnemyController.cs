@@ -67,7 +67,7 @@ public class EnemyController : MonoBehaviour
         if (collision.gameObject.CompareTag("Player")) // Si el enemigo colisiona con el jugador
         {
             Vector2 direccionDanio = new (transform.position.x, 0); // Calcular la dirección del daño
-            Run playerScript = collision.gameObject.GetComponent<Run>(); // Obtener el componente PlayerController del jugador
+            PlayerController playerScript = collision.gameObject.GetComponent<PlayerController>(); // Obtener el componente PlayerController del jugador
             playerScript.Damage(direccionDanio, 1); // Aplicar daño al jugador 
             playerVivo = !playerScript.muerto; // Actualizar la bandera de jugador vivo
         }

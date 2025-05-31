@@ -8,7 +8,7 @@ using UnityEditor;
 using UnityEditorInternal;
 #endif
 
-public class Run : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     //codigo para que el personaje se mueva horizontalmente
     public float speed = 5f;
